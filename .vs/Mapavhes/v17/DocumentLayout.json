@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|C:\\Users\\lesly\\source\\repos\\Mapavhes\\mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCitasRegistradas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmCitasRegistradas.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mapavhes\\FrmCitasRegistradas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:23:27.381Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs",
+              "RelativeToolTip": "Mapavhes\\FrmInicio.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:16:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mapavhes\\FrmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:15:53.417Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCitasRegistradas.cs",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmCitasRegistradas.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs",
+              "RelativeToolTip": "Mapavhes\\FrmCitasRegistradas.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:02:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAgregarCita.cs",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs",
+              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:20:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAgregarCita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:10:48.229Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmInicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.Designer.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmInicio.Designer.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.Designer.cs",
+              "RelativeToolTip": "Mapavhes\\FrmInicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:08:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\Program.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\Program.cs",
+              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\Program.cs",
+              "RelativeToolTip": "Mapavhes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:15:58.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
