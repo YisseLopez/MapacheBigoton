@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mapavhes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54df036a3176a36386658e1293284512a46be9e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mapavhes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mapavhes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

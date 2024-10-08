@@ -23,7 +23,7 @@ namespace Mapavhes
         }
 
         private FrmCitasRegistradas frmCitasRegistradas;
-       
+
         public FrmAgregarCita(FrmCitasRegistradas citasRegistradas)
         {
             InitializeComponent();
@@ -52,11 +52,14 @@ namespace Mapavhes
             txtNombreCliente.Clear();
             txtTelefono.Clear();
             txtServicioSolicitado.Clear();
-            txtCostoServicio .Clear();
+            txtCostoServicio.Clear();
             txtHoraCita.Clear();
 
         }
 
+        private void txtHoraCita_TextChanged(object sender, EventArgs e)
+        {
 
+        }
     }
 }

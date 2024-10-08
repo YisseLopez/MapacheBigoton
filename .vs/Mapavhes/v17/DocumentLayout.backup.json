@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\",
+  "WorkspaceRootPath": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmcitasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|C:\\Users\\lesly\\source\\repos\\Mapavhes\\mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\dylsi\\onedrive\\documentos\\github\\mapachebigoton\\mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\dylsi\\onedrive\\documentos\\github\\mapachebigoton\\mapavhes\\frmagregarcita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmagregarcita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\dylsi\\onedrive\\documentos\\github\\mapachebigoton\\mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmagregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\dylsi\\onedrive\\documentos\\github\\mapachebigoton\\mapavhes\\frmcitasregistradas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frmcitasregistradas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\dylsi\\onedrive\\documentos\\github\\mapachebigoton\\mapavhes\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|c:\\users\\lesly\\source\\repos\\mapavhes\\mapavhes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FCC989-E7AB-4F88-A0CF-0C6EF052712A}|Mapavhes\\Mapavhes.csproj|solutionrelative:mapavhes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +30,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmCitasRegistradas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\FrmCitasRegistradas.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Mapavhes\\FrmCitasRegistradas.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "FrmAgregarCita.cs",
+              "DocumentMoniker": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmAgregarCita.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.cs",
+              "ToolTip": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmAgregarCita.cs",
+              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwC8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T05:23:27.381Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmInicio.cs",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\FrmInicio.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs",
-              "RelativeToolTip": "Mapavhes\\FrmInicio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADgvyAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T05:16:01.578Z",
+              "WhenOpened": "2024-09-24T16:43:36.71Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\FrmInicio.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Mapavhes\\FrmInicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T05:15:53.417Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmCitasRegistradas.cs",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\FrmCitasRegistradas.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmCitasRegistradas.cs",
-              "RelativeToolTip": "Mapavhes\\FrmCitasRegistradas.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Title": "FrmAgregarCita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmAgregarCita.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.cs",
+              "ToolTip": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmAgregarCita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T04:02:56.564Z",
+              "WhenOpened": "2024-09-18T17:15:00.129Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAgregarCita.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmAgregarCita.Designer.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.Designer.cs",
+              "ToolTip": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmAgregarCita.Designer.cs",
+              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:45:58.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmAgregarCita.cs",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs",
-              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Title": "FrmCitasRegistradas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmCitasRegistradas.Designer.cs",
+              "RelativeDocumentMoniker": "Mapavhes\\FrmCitasRegistradas.Designer.cs",
+              "ToolTip": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmCitasRegistradas.Designer.cs",
+              "RelativeToolTip": "Mapavhes\\FrmCitasRegistradas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T01:20:55.099Z",
+              "WhenOpened": "2024-09-18T16:45:47.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FrmAgregarCita.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\FrmAgregarCita.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmAgregarCita.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Mapavhes\\FrmAgregarCita.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T23:10:48.229Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "FrmInicio.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmInicio.Designer.cs",
               "RelativeDocumentMoniker": "Mapavhes\\FrmInicio.Designer.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\FrmInicio.Designer.cs",
+              "ToolTip": "C:\\Users\\dylsi\\OneDrive\\Documentos\\GitHub\\MapacheBigoton\\Mapavhes\\FrmInicio.Designer.cs",
               "RelativeToolTip": "Mapavhes\\FrmInicio.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T04:08:54.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\Program.cs",
-              "RelativeDocumentMoniker": "Mapavhes\\Program.cs",
-              "ToolTip": "C:\\Users\\lesly\\source\\repos\\Mapavhes\\Mapavhes\\Program.cs",
-              "RelativeToolTip": "Mapavhes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:15:58.789Z"
+              "WhenOpened": "2024-09-18T16:45:14.583Z"
             }
           ]
         }
